@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/mo/blog/2024/Quartic/";
           
         },
+      },{id: "post-a-post-with-giscus-comments",
+        
+          title: "a post with giscus comments",
+        
+        description: "an example of a blog post with giscus comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/mo/blog/2022/giscus-comments/";
+          
+        },
       },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
