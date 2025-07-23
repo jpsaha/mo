@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mo/blog/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-quartics",
+        
+          title: "Quartics",
+        
+        description: "Quartic polynomials",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/mo/blog/2024/Quartic/";
+          
+        },
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
