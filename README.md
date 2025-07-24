@@ -3,7 +3,7 @@
 
 This uses the al-folio theme.
 
-## al-folio readme
+# al-folio readme
 
 <details>
   <summary>Click me</summary>
